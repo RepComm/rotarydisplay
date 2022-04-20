@@ -1,4 +1,6 @@
-# webpack-ts-template
+# rotarydisplay
+A simulation and algorithm for a monitor made from a motor and led strip
 
-A template that uses webpack configured with babel / typescript<br/>
-to compile for the browser
+Upload an image to see it display on the rotary display
+
+[github pages link](https://repcomm.github.io/rotarydisplay)

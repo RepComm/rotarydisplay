@@ -18,8 +18,9 @@ module.exports = {
     extensions: ['.ts', '.js', '.json']
   },
   output: {
+    hashFunction: "xxhash64",
     filename: 'main.js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'docs'),
   },
   module: {
     rules: [
